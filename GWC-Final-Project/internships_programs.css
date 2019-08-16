@@ -1,0 +1,33 @@
+.header {
+  text-align: center;
+  background-color: blue;
+  font-size: 36px;
+  font-family: 'Merriweather Sans', sans-serif;
+  padding: 15px;
+  font-weight: bold;
+}
+
+.comingSoon {
+  text-align: center;
+  font-size: 36px;
+}
+
+.header2 {
+  text-align: center;
+  background-color:     #E6E6FA;
+  font-size: 25px;
+  font-family: 'Merriweather Sans', sans-serif;
+  padding: 10px;
+  font-weight: bold;
+}
+
+.program {
+  text-align: left;
+  font-size: 15px;
+}
+
+.bold {
+  text-align: left;
+  font-size: 15px;
+  font-weight: bold;
+}
